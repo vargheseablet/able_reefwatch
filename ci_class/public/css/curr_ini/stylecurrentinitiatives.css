@@ -1,0 +1,234 @@
+body{
+	margin:0px;
+	padding:0px;
+	/*background-image:url(../images/background4.gif);*/
+	background-image:url(../../img/curr_ini/bgCurrentInitiatives.gif);
+	background-repeat:no-repeat;
+	background-position:top center;
+
+	font-family:'PT Sans', sans-serif;
+}
+.wrapper{
+	width:990px;
+	height:743px;
+	margin:auto;	
+}
+.header{
+	width:990px;
+	height:139px;
+}
+.logo{
+	width:358px;
+	height:139px;
+	float:left;
+}
+.ico-box{
+	width:105px;
+	height:55px;
+	float:right;
+	margin-right:14px;
+	padding-top:20px;
+}
+
+.ico-t{
+	width:28px;
+	height:28px;
+	float:right;
+	margin-left:10px;
+	
+}
+
+
+.ico-f{
+	width:28px;
+	height:28px;
+	float:right;
+	
+
+
+}
+
+.ico-donate{
+	width:28px;
+	height:28px;
+	float:right;
+	margin-left:10px;
+
+}
+
+.navigation{
+	width:632px;
+	height:68px;
+	float:left;
+	font-size:12px;
+\
+}
+/*.nav{    
+    list-style:none;
+	margin-bottom:20px; 
+    text-align:center;	
+}
+.nav li{
+    display:inline;
+	text-align:center;
+	padding:0px 5px;
+}
+.nav a{
+    display:inline-block;   
+	text-decoration:none;
+	color:#999999;
+}*/
+
+.mainbox{
+	width:990px;
+	float:left;
+	
+	margin-top:35px;
+	
+}
+
+.initiatives-box5{
+	width:691px;
+	
+	margin-left:22px;
+}
+
+.initiatives-box6{
+	width:691px;
+	
+}
+.initiatives-9{
+	font-family: 'Droid Serif', serif;
+	font-size:16px;
+	color:#11b3c2;
+/*	width:134px;*/
+	height:18px;
+	
+	}
+.initiatives-10{
+	width:684px;
+	margin-top:9px;
+	color:#000000;
+	font-family: 'PT Sans', sans-serif;
+	line-height:16px;
+	font-size:13px;
+	color:#000000;
+	
+}
+
+.initiatives-10 a{
+	color:#11b3c2;
+	text-decoration:none;
+}
+
+.initiatives-10 a:hover{
+	color:#14909b;
+	text-decoration:none;
+}
+
+
+.col1{
+	float:left;
+	width:704px;
+	margin-top:7px;
+}
+.col2{
+	float:left;
+	width:247px;
+	margin-top:7px;
+	
+	
+	margin-left:20px;
+}
+
+.initiatives-box7{
+	width:161px;	
+	float:left;
+	margin-left:22px;
+	margin-top: 24px;
+}
+.initiatives-box8{
+	width:517x;
+	height:468px;	
+	float:left;	
+}
+.initiatives-11{
+	width:151px;	
+	font-family: 'Droid Serif', serif;
+	font-size:17px;
+	line-height:19px;
+	color:#808080;
+	font-weight:200;
+	margin-top:5px;
+}
+.initiatives-12{
+	width:97%;
+	height:600px;
+	font-family:'PT Sans', sans-serif;
+	font-size:13px;
+	line-height:21px;
+	margin-top:5px;
+	color:#14909b;
+}
+
+
+#description { 
+        height:342px;
+        overflow: hidden;
+
+      }
+.inishortvideo{
+	width:506px;	
+	float:left;
+	margin-left:15px;
+	margin-top:13px;	
+	
+}
+.initiatives-13{
+	font-family:'PT Sans', sans-serif;
+	font-size:17px;
+	color:#62c6cc;
+	margin-top:15px;
+	margin-left:13px;
+	line-height:19px;
+	color:#62c6cc;
+	font-weight:bold;
+}
+.initiatives-14{
+	font-family:'PT Sans', sans-serif;
+	font-size:13px;
+	line-height:17px;
+	margin-top:7px;
+	margin-left:13px;
+}
+.initiatives-14 a{
+	text-decoration:none;
+	color:#11b3c2;
+}
+
+.initiatives-15{
+	font-family: 'Droid Serif', serif;
+	font-size:24px;
+	line-height:25px;
+	margin-top:27px;
+	color:#62c6cc;
+
+}
+.initiatives-16{
+	font-family:'PT Sans', sans-serif;
+	font-size:13px;
+	line-height:19px;
+	margin-top:14px;
+	color:#808080;
+	text-align:justify;
+}
+
+.initiatives-16 a{
+	color:#11b3c2;
+	text-decoration:none;
+}
+
+.initiatives-16 a:hover{
+	color:#14909b;
+	text-decoration:none;
+}

@@ -1,0 +1,282 @@
+body{
+	margin:0px;
+	padding:0px;
+	/*background-image:url(../images/background3.gif);	*/
+	background-image:url(../../img/past_ini/bgpastinitiatives.gif);	
+	background-repeat:no-repeat;
+	background-position:top center;
+	font-family:'PT Sans', sans-serif;
+}
+.wrapper{
+	width:990px;
+	height:743px;
+	margin:auto;	
+}
+.header{
+	width:990px;
+	height:139px;
+}
+.logo{
+	width:358px;
+	height:139px;
+	float:left;
+}
+
+.ico-box{
+	width:105px;
+	height:55px;
+	float:right;
+	margin-right:14px;
+	padding-top:20px;
+}
+
+.ico-t{
+	width:28px;
+	height:28px;
+	float:right;
+	margin-left:10px;
+	
+}
+
+
+.ico-f{
+	width:28px;
+	height:28px;
+	float:right;
+	
+
+
+}
+
+.ico-donate{
+	width:28px;
+	height:28px;
+	float:right;
+	margin-left:10px;
+
+}
+
+
+.navigation{
+	width:632px;
+	height:68px;
+	float:left;
+	font-size:12px;
+
+}
+/*.nav{    
+    list-style:none;
+	margin-bottom:20px; 
+    text-align:center;	
+}
+.nav li{
+    display:inline;
+	text-align:center;
+	padding:0px 5px;
+}
+.nav a{
+    display:inline-block;   
+	text-decoration:none;
+	color:#999999;
+}*/
+.colu1{
+	width:659px;
+	float:left;
+}
+.Initiatives-box1{
+	width:166px;
+	height:322px;	
+
+	float:left;
+	
+}
+.Initiatives-mainbox1{
+	width:633px;
+	height:322px;
+	
+}
+.Initiatives-1{
+	width:140px;
+	height:322px;
+	font-family:'PT Sans', sans-serif;
+	font-size:16px;
+	line-height:23px;
+	color:#4da5b3;
+	padding-left:26px;	
+	padding-top:37px;
+	
+}
+.Initiatives-box2{
+	width:493px;
+	height:322px;
+	padding-top:37px;	
+	float:left;
+}
+.Initiatives-2{
+	
+	font-family:'PT Sans', sans-serif;
+	font-size:13px;
+	padding-left:10px;
+}
+.Initiatives-3{
+	
+	font-family: 'Droid Serif', serif;
+	font-size:18px;
+	padding-left:10px;
+	padding-top:10px;
+	color:#62c6cc;
+}
+.fishvideo{
+	float:left;	
+	height:271px;
+	padding-top:7px;
+	padding-left:10px;
+}
+
+.fishvideodesc1{
+	position:absolute;
+	width:474px;
+	height:278px;
+	z-index:10;
+
+	
+}
+.fishvideodesc{
+	position:absolute;
+	right:0px;
+	bottom:10px;
+	padding:16px;
+	width:300px;
+	height:auto;
+	z-index:10;
+	display:none;
+	background-color:#11b3c2;
+	color:#fff;
+	text-align:justify;
+	font-family:'PT Sans', sans-serif;
+	font-size:13px;
+	
+}
+
+.fishvideodesc a{
+	color:#a1e2e8;
+	text-decoration:none;
+}
+.fishvideodesc a:hover{
+	color:#fff;
+	text-decoration:none;
+}
+
+.Initiatives-box3{
+	width:302px;
+	height:556px;
+	float:left;
+	padding-top:37px;
+	margin-left:12px;
+		
+}
+.Initiatives-box4{
+	width:624px;
+	height:245px;	
+	float:left;
+	/*margin-left:26px;*/
+}
+.Initiatives-box4 img{
+	margin-left:20px;
+	margin-top:20px;
+}
+
+.Initiatives-box4 a{
+	text-decoration:none;
+	color:#62c6cc;
+}
+
+.Initiatives-box4 a:hover{
+	text-decoration:none;
+	color:#11b3c2;
+}
+
+.Initiatives-4{
+	font-family: 'Droid Serif', serif;
+	font-size:18px;
+	padding-left:26px;
+	padding-top:9px;
+	color:#11b3c2;
+}
+.Initiatives-img1{
+	float:left;
+	padding-top:10px;
+	padding-left:26px;
+}
+.Initiatives-5{
+	font-family:'PT Sans', sans-serif;
+	font-size:14px;
+	width:335px;	
+	height:395px;
+	float:left;
+	padding-top:10px;
+	padding-left:13px;
+	line-height:20px;
+	
+}
+.Initiatives-6{
+	width:302px;
+	height:21px;
+	font-family: 'Droid Serif', serif;
+	font-size:18px;
+	color:#11b3c2;	
+}
+.Initiatives-7{
+	width:298px;
+	height:362px;
+	font-size:13px;
+	line-height:19px;
+	color:#999;
+	margin-top:3px;	
+}
+
+.Initiatives-7 a{
+	text-decoration:none;
+	color:#62c6cc;
+}
+
+.Initiatives-7 a:hover{
+	text-decoration:none;
+	color:#11b3c2;
+}
+
+.Initiatives-8{
+	width:300px;
+	height:36px;
+	font-family:'PT Sans', sans-serif;
+	font-size:14px;
+	line-height:16px;
+	color:#000;
+	padding-top:7px;
+	padding-left:4px;
+}
+
+.Initiatives-8 a{
+	text-decoration:none;
+	color:#62c6cc;
+}
+
+.Initiatives-8 a:hover{
+	text-decoration:none;
+	color:#11b3c2;
+}
+.Initiatives-img2{
+	width:298px;
+	height:114px;
+	padding-top:16px;
+	
+}
+
+.singlepastinifish{
+	width:658px;
+	text-align:right;
+	margin-top:5px;
+	margin-left:5px;
+	position:absolute;
+	z-index:1000;
+}

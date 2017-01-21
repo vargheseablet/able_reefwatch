@@ -1,0 +1,271 @@
+html, html a {
+    -webkit-font-smoothing: antialiased;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+}
+
+body{
+	margin:0px;
+	padding:0px;
+	/*background-image:url(../images/contactbg.gif);	*/
+	background-image:url(../../img/thank/bgContactUsNew.gif);	
+	background-repeat:no-repeat;
+	background-position:top center;
+
+	font-family:Arial, Helvetica, sans-serif;
+}
+.wrapper{
+	width:998px;
+	height:743px;
+	margin:auto;
+/*	border-left:1px solid #96e2e9;
+	border-right:1px solid #96e2e9;
+	border-bottom:2px solid #96e2e9;*/
+	
+}
+.maindiv{
+
+	width:990px;
+	margin:auto;
+}
+
+.line1{
+	float:left;
+	width:1px;
+	background-color:#11b3c2;
+	height:743px;
+}
+.line2{
+	float:left;
+	width:1px;
+	background-color:#11b3c2;
+	height:743px;
+	margin-left:3px;
+}
+
+.header{
+	width:990px;
+	height:139px;
+}
+.logo{
+	width:358px;
+	height:139px;
+	float:left;
+}
+.ico-box{
+	width:105px;
+	height:55px;
+	float:right;
+	margin-right:14px;
+	padding-top:20px;
+}
+
+.ico-t{
+	width:28px;
+	height:28px;
+	float:right;
+	margin-left:10px;
+	
+}
+
+
+.ico-f{
+	width:28px;
+	height:28px;
+	float:right;
+	
+
+
+}
+
+.ico-donate{
+	width:28px;
+	height:28px;
+	float:right;
+	margin-left:10px;
+
+}
+
+.navigation{
+	width:632px;
+	height:68px;
+	float:left;
+	font-size:12px;
+
+}
+
+.col1{
+	width:544px;
+	height:568px;
+	margin-left:27px;
+	margin-top:37px;
+	float:left;
+}
+.col2{
+	width:300px;
+	margin-left:75px;
+	float:left;
+	margin-top:96px;
+}
+
+.contact1{
+	width:544px;
+	height:72px;
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size:32px;
+	line-height:29px;
+	margin-top:38px;
+	color:#62c6cc;
+}
+.contact2{
+	width:544px;
+	height:50px;
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size:17px;
+	line-height:18px;
+	color:#000;
+	
+}
+.col3{
+	width:216px;
+	height:224px;
+	float:left;
+}
+.col4{
+	width:328px;
+	height:224px;
+	float:left;
+}
+.contact3{
+	width:155px;
+	height:autopx;
+	margin-top:57px;
+	margin-left:48px;
+	color:#14909b;
+}
+.addresbox{
+	width:284px;
+	height:154px;
+	margin-top:55px;
+	margin-left:17px;
+}
+.col5{
+	
+	height:82px;	
+}
+.no1{
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size:23px;
+	line-height:18px;
+	color:#14909b;
+	
+}
+.no2{
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size:18px;
+	line-height:18px;
+	margin-top:0px;
+	color:#808080;
+	
+}
+.no3{
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size:25px;
+	line-height:18px;
+	margin-top:18px;
+	color:#14909b;
+	margin-left:26px;
+	
+}
+
+.col6{
+	width:271px;
+	height:67px;
+	margin-left:268px;
+	margin-top:25px;
+	color:#808080;
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size:22px;
+	line-height:22px;
+}
+.col6 a{
+	color:#14909b;
+	text-decoration:none;
+}
+.mainbox{
+	width:544px;
+	height:224px;
+}
+.addres{
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size:22px;
+	line-height:26px;
+	color:#11b3c2;
+	
+}
+#contactform1{
+	font-family:'PT Sans', sans-serif;
+	font-size:13px;
+}
+#contactform1 p{
+	padding:0px;
+	margin:0px;
+}
+
+#contactform1 input.error {
+    border: 1px solid #1bb6c5;
+}
+#contactform1 input, #contactform1 select {
+    color: #999;
+    border: 1px solid #1bb6c5;
+    font-family:'PT Sans', sans-serif;
+	font-size:13px;
+    width: 250px;
+    height: 30px;
+    padding: 0px 25px;
+    margin: 0px 0px 8px 0px;
+    float: left;
+    border-radius: 10px;
+}
+
+.contactInput input{
+	width:100px !important;
+	border:none !important;
+	
+	color:#1bb6c5 !important;
+	font-size:18px !important;
+	background-image:url(../../img/thank/inputcontact.png) !important;
+	background-repeat:no-repeat !important;
+	padding:0px !important;
+	height:33px !important;
+}
+
+
+#contactform1 textarea{
+    color: #999;
+    border: 1px solid #1bb6c5;
+    font-family:'PT Sans', sans-serif;
+	font-size:13px;;
+    width: 250px;
+    height: 171px;
+    padding: 0px 25px;
+    margin: 0px 0px 5px 0px;
+    float: left;
+    border-radius: 10px;
+}
+
+
+
+.thankyoumessage{
+	position:absolute;
+	width:990px;
+	height:462px;
+	margin:auto;
+	z-index:30000;	
+	margin-top:213px;
+
+}
+.thankyoumessage img{
+	position:absolute;
+	right:9px;
+	
+}

@@ -1,0 +1,191 @@
+body{
+	margin:0px;
+	padding:0px;
+	/*background-image:url(../images/bgyoucanhelp.gif);	*/
+	background-image:url(../../img/yc_help/bgyoucanhelp.gif);
+	background-repeat:no-repeat;
+	background-position:top center;
+
+}
+.wrapper{
+	width:990px;
+	height:743px;
+	margin:auto;	
+}
+.header{
+	width:990px;
+	height:139px;
+}
+.logo{
+
+	width:358px;
+	height:139px;
+	float:left;
+}
+.ico-box{
+	width:105px;
+	height:55px;
+	float:right;
+	margin-right:14px;
+	padding-top:20px;
+}
+
+.ico-t{
+	width:28px;
+	height:28px;
+	float:right;
+	margin-left:10px;
+	
+}
+
+
+.ico-f{
+	width:28px;
+	height:28px;
+	float:right;
+	
+
+
+}
+
+.ico-donate{
+	width:28px;
+	height:28px;
+	float:right;
+	margin-left:10px;
+
+}
+
+.navigation{
+	width:632px;
+	height:68px;
+	float:left;
+	font-size:12px;
+
+}
+/*.nav{    
+    list-style:none;
+	margin-bottom:20px; 
+    text-align:center;	
+}
+.nav li{
+    display:inline;
+	text-align:center;
+	padding:0px 5px;
+}
+.nav a{
+    display:inline-block;   
+	text-decoration:none;
+	color:#999999;
+}*/
+.mainbox{
+	width:990px;
+	height:308px;
+	margin-top:30px;
+}
+.col1{
+	width:571px;
+	height:308px;
+	float:left;
+	margin-left:37px;
+}
+.col2{
+	width:382px;
+	height:308px;
+	float:left;
+}
+.youcan1{
+	width:539px;
+	font-family:'Droid Serif', sans-serif;
+	font-size:17px;
+	color:#62c6cc;
+	height:25px;
+	margin-top:5px;	
+}
+
+.youcan1a{
+	font-family:'Droid Serif', sans-serif;
+	font-size:14px;
+	color:#62c6cc;
+	text-transform:uppercase;
+}
+	
+.youcan2{
+	width:538px;
+	height:auto;
+}
+
+
+.youcan3{
+	width:382px;
+	height:33px;
+	font-family:'Droid Serif', sans-serif;
+	font-size:22px;
+	color:#62c6cc;
+	margin-top:5px;
+}
+.youcan4{
+	width:382px;	
+	font-family:'PT Sans', sans-serif;
+	font-size:14px;
+	line-height:21px;
+
+	color:#000000;
+}
+
+.youcan4 a{
+	color:#11b3c2;
+	text-decoration:none;
+	font-family:'PT Sans', sans-serif;
+	font-size:14px;
+}
+.mainbox2{
+	width:953px;	
+	margin-top:12px;	
+	margin-left:37px;
+}
+.youcan5{
+	width:333px;
+	height:19px;
+	font-family:'Droid Serif', sans-serif;
+	font-size:25px;
+}
+.youcan5 a{
+	color:#11b3c2;
+	text-decoration:none;
+}
+.youcan5 a:hover{
+	color:#999;
+	text-decoration:none;
+}
+.youcan5t {
+	color:#11b3c2;
+	width:333px;
+	height:19px;
+	font-family:'Droid Serif', sans-serif;
+	font-size:25px;
+	
+}
+.youcan6{
+	width:350px;
+	margin-top:5px;
+	font-family:'PT Sans', sans-serif;
+	font-size:12px;
+	color:#11b3c2;
+	display:none;
+	
+
+}
+.youcan7{
+	width:916px;
+	line-height:21px;
+	margin-top:10px;
+	color:#999;	
+	font-family:'PT Sans', sans-serif;
+	font-size:14px;
+}
+.youcan7 a{
+	 display:inline-block;   
+	text-decoration:none;
+	color:#11b3c2;
+}

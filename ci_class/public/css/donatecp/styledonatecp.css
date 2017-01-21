@@ -1,0 +1,222 @@
+body{
+	margin:0px;
+	/*background-image:url(../images/background2.gif);*/
+	background-image:url(../../img/donatecp/bgDonate.gif);
+	background-repeat:no-repeat;
+	background-position:top center;
+
+}
+.wrapper{
+	width:990px;
+	min-height:743px;
+	margin:auto;	
+}
+.header{
+	width:990px;
+	height:139px;
+}
+.logo{
+	width:358px;
+	height:139px;
+	float:left;
+}
+.ico-box{
+	width:105px;
+	height:55px;
+	float:right;
+	margin-right:14px;
+	padding-top:20px;
+}
+
+.ico-t{
+	width:28px;
+	height:28px;
+	float:right;
+	margin-left:10px;
+	
+}
+
+
+.ico-f{
+	width:28px;
+	height:28px;
+	float:right;
+	
+
+
+}
+
+.ico-donate{
+	width:28px;
+	height:28px;
+	float:right;
+	margin-left:10px;
+
+}
+
+.navigation{
+	width:632px;
+	height:68px;
+	float:left;
+	font-size:12px;
+
+}
+/*.nav{    
+    list-style:none;
+	margin-bottom:20px; 
+    text-align:center;	
+}
+.nav li{
+    display:inline;
+	text-align:center;
+	padding:0px 5px;
+}
+.nav a{
+    display:inline-block;   
+	text-decoration:none;
+	color:#999999;
+}
+*/
+
+.whatwedo-box1{
+	width:186px;
+	height:416px;
+	padding-top:38px;
+	float:left;
+	margin-left:20px;
+}
+.whatwedo-1{
+	width: 186px;
+	font-family: 'Droid Serif', serif;
+	font-size:20px;
+	/*font-weight:bold;*/
+	color:#000;
+	padding:7px 0px 0px 0px;	
+}
+.whatwedo-2{
+	width: 186px;
+	font-family: 'PT Sans', sans-serif;
+	font-size:14px;
+	line-height:21px;	
+	color:#999;
+	padding:6px 0px 0px 0px; 			
+}
+.whatwedo-2 a{
+	text-decoration:none;
+	color:#11b3c2;
+}
+
+.whatwedo-2 a:hover{
+	text-decoration:none;
+	color:#069;
+}
+.whatwedo-box2{
+	width:744px;
+	height:auto;
+	float:left;
+	padding-top:38px;
+}
+.whatwedo-3{
+	font-family: 'Droid Serif', serif;
+	font-size:20px;
+
+	color:#000;
+	padding:7px 0px 0px 0px;
+	
+}
+.whatwedo-4{
+	font-family:'PT Sans', sans-serif;
+	font-size:14px;
+	color:#11b3c2;
+	padding:6px 0px 0px 0px;	
+	line-height:16px;
+/*	margin-left:20px;*/
+}
+.singlefish{
+	position:absolute;
+	margin-left:648px;
+	margin-top:400px;
+	z-index:10;
+}
+.slidebox{
+	width:744px;
+	height:330px;
+	float:left;
+
+	margin-top:10px;
+}
+.whatwedo-box3{
+	width:744px;
+	height:101px;
+	float:left;
+	/*padding-right:20px;*/
+	
+}
+.whatwedo-5{
+	font-family:'PT Sans', sans-serif;
+	font-size:14px;
+	color:#11b3c2;
+	padding:10px 0px 0px 0px;	
+	line-height:16px;
+	
+}
+
+
+.col1{
+	float:left;
+	width:224x;
+	margin-top:7px;
+}
+.col2{
+	float:left;
+	width:744px;
+	margin-top:7px;
+	
+	margin-left:20px;
+}
+.op{
+	width:204px;
+	height:54px;
+	float:left;
+}
+
+.dd{
+	width:204px;
+	height:54px;
+	float:left;
+	margin-left:47px;
+}
+
+.cp{
+	width:204px;
+	height:54px;
+	float:left;
+	margin-left:46px;
+}
+
+.opdesc{
+	width:705px;
+	margin:auto;
+	display:none;
+
+}
+
+.dddesc{
+	margin:auto;
+	width:705px;
+	
+}
+
+.cpdesc{
+	margin:auto;
+	width:705px;
+	display:none;
+}
+.paymenttabs{
+	width:705px;
+	margin: 50px auto 0px auto;
+}
+
+.donatetext{
+	margin-top:48px;
+}
